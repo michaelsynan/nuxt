@@ -67,7 +67,7 @@
     "ofetch": "1.3.3",
     "pathe": "1.1.1",
     "playwright-core": "1.38.1",
-    "rimraf": "5.0.2",
+    "rimraf": "5.0.4",
     "semver": "7.5.4",
     "std-env": "3.4.3",
     "typescript": "5.2.2",
